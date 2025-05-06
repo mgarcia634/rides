@@ -1,0 +1,70 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-17 19:21:27 #1 store] 
+Database 'C:\Users\iniga\OneDrive\Escritorio\it1.2\Rides24\src\main\resources\rides.temp' is opened by 17780@inigo7
+
+[2025-03-17 19:21:28 #2 type.registry] 
+New type domain.Driver
+
+[2025-03-17 19:21:28 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-17 19:21:28 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-17 19:21:28 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-17 19:21:28 #6 type.registry] 
+New type domain.User
+
+[2025-03-17 19:21:28 #7 type] 
+Type domain.User is not enhanced.
+
+[2025-03-17 19:21:28 #8 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-17 19:21:28 #9 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-03-17 19:21:28 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-03-17 19:21:28 #11 type.registry] 
+New type java.util.ArrayList<domain.User>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-03-17 19:23:47 #1 store] 
+Database 'C:\Users\iniga\OneDrive\Escritorio\it1.2\Rides24\src\main\resources\rides.temp' is opened by 8320@inigo7
+
+[2025-03-17 19:23:47 #2 type.registry] 
+New type domain.Driver
+
+[2025-03-17 19:23:47 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-03-17 19:23:47 #4 type.registry] 
+New type domain.Ride
+
+[2025-03-17 19:23:47 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2025-03-17 19:23:47 #6 type.registry] 
+New type domain.User
+
+[2025-03-17 19:23:47 #7 type] 
+Type domain.User is not enhanced.
+
+[2025-03-17 19:23:47 #8 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-03-17 19:23:47 #9 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-03-17 19:23:47 #10 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-03-17 19:23:47 #11 type.registry] 
+New type java.util.ArrayList<domain.User>
+

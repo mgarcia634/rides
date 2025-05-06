@@ -1,0 +1,213 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 09:08:22 #1 store] 
+Database 'C:\Users\iniga\OneDrive\Escritorio\it1.2\Rides24\src\main\resources\rides.temp' is opened by 1560@inigo7
+
+[2025-04-01 09:08:22 #2 type.registry] 
+New type domain.Driver
+
+[2025-04-01 09:08:22 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 09:08:22 #4 type.registry] 
+New type domain.Vehicle
+
+[2025-04-01 09:08:22 #5 type.registry] 
+New type domain.Ride
+
+[2025-04-01 09:08:22 #6 type] 
+Type domain.Vehicle is not enhanced.
+
+[2025-04-01 09:08:22 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 09:08:22 #8 type.registry] 
+New type domain.User
+
+[2025-04-01 09:08:22 #9 type.registry] 
+New type domain.Reservation
+
+[2025-04-01 09:08:22 #10 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 09:08:22 #11 type.registry] 
+New type domain.Rating
+
+[2025-04-01 09:08:22 #12 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-04-01 09:08:22 #13 type.registry] 
+New type domain.ReservationStatus
+
+[2025-04-01 09:08:22 #14 type] 
+Type domain.Rating is not enhanced.
+
+[2025-04-01 09:08:22 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-04-01 09:08:22 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-04-01 09:08:22 #17 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-04-01 09:08:22 #18 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
+[2025-04-01 09:08:39 #19 type.registry] 
+New type java.util.ArrayList<domain.Ride>
+
+[2025-04-01 09:08:39 #20 type.registry] 
+New type java.util.ArrayList<domain.Rating>
+
+[2025-04-01 09:09:01 #21 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-04-01 09:09:01 #22 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-04-01 09:09:01 #23 type.registry] 
+New type com.objectdb.o.RFV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 09:24:02 #1 store] 
+Database 'C:\Users\iniga\OneDrive\Escritorio\it1.2\Rides24\src\main\resources\rides.temp' is opened by 21696@inigo7
+
+[2025-04-01 09:24:03 #2 type.registry] 
+New type domain.Driver
+
+[2025-04-01 09:24:03 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 09:24:03 #4 type.registry] 
+New type domain.Vehicle
+
+[2025-04-01 09:24:03 #5 type.registry] 
+New type domain.Ride
+
+[2025-04-01 09:24:03 #6 type] 
+Type domain.Vehicle is not enhanced.
+
+[2025-04-01 09:24:03 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 09:24:03 #8 type.registry] 
+New type domain.User
+
+[2025-04-01 09:24:03 #9 type.registry] 
+New type domain.Reservation
+
+[2025-04-01 09:24:03 #10 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 09:24:03 #11 type.registry] 
+New type domain.Rating
+
+[2025-04-01 09:24:03 #12 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-04-01 09:24:03 #13 type.registry] 
+New type domain.ReservationStatus
+
+[2025-04-01 09:24:03 #14 type] 
+Type domain.Rating is not enhanced.
+
+[2025-04-01 09:24:03 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-04-01 09:24:03 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-04-01 09:24:03 #17 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-04-01 09:24:03 #18 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
+[2025-04-01 09:24:36 #19 type.registry] 
+New type java.util.ArrayList<domain.Ride>
+
+[2025-04-01 09:24:36 #20 type.registry] 
+New type java.util.ArrayList<domain.Rating>
+
+[2025-04-01 09:24:48 #21 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-04-01 09:24:48 #22 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-04-01 09:24:48 #23 type.registry] 
+New type com.objectdb.o.RFV
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-04-01 09:25:33 #1 store] 
+Database 'C:\Users\iniga\OneDrive\Escritorio\it1.2\Rides24\src\main\resources\rides.temp' is opened by 30416@inigo7
+
+[2025-04-01 09:25:33 #2 type.registry] 
+New type domain.Driver
+
+[2025-04-01 09:25:33 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2025-04-01 09:25:33 #4 type.registry] 
+New type domain.Vehicle
+
+[2025-04-01 09:25:33 #5 type.registry] 
+New type domain.Ride
+
+[2025-04-01 09:25:33 #6 type] 
+Type domain.Vehicle is not enhanced.
+
+[2025-04-01 09:25:33 #7 type] 
+Type domain.Ride is not enhanced.
+
+[2025-04-01 09:25:33 #8 type.registry] 
+New type domain.User
+
+[2025-04-01 09:25:33 #9 type.registry] 
+New type domain.Reservation
+
+[2025-04-01 09:25:33 #10 type] 
+Type domain.User is not enhanced.
+
+[2025-04-01 09:25:33 #11 type.registry] 
+New type domain.Rating
+
+[2025-04-01 09:25:33 #12 type] 
+Type domain.Reservation is not enhanced.
+
+[2025-04-01 09:25:33 #13 type.registry] 
+New type domain.ReservationStatus
+
+[2025-04-01 09:25:33 #14 type] 
+Type domain.Rating is not enhanced.
+
+[2025-04-01 09:25:33 #15 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2025-04-01 09:25:33 #16 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-04-01 09:25:33 #17 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2025-04-01 09:25:33 #18 type.registry] 
+New type java.util.ArrayList<domain.Reservation>
+
+[2025-04-01 09:25:48 #19 type.registry] 
+New type java.util.ArrayList<domain.Ride>
+
+[2025-04-01 09:25:48 #20 type.registry] 
+New type java.util.ArrayList<domain.Rating>
+
+[2025-04-01 09:26:07 #21 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-04-01 09:26:07 #22 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-04-01 09:26:07 #23 type.registry] 
+New type com.objectdb.o.RFV
+
